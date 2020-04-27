@@ -1,0 +1,231 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[ Home ] Renders Component and it matches snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root undefined Container-root-2 MuiGrid-container MuiGrid-justify-xs-center"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-11 MuiGrid-grid-md-10 MuiGrid-grid-lg-10 MuiGrid-grid-xl-8"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-overline MuiTypography-gutterBottom"
+      >
+        My salons
+      </span>
+      <hr
+        class="MuiDivider-root SalonsList-divider-1"
+        color="secondary"
+      />
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
+          style="opacity: 1; transform: scale(1, 1); transition: opacity 0ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 0ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root SalonCard-root-141 MuiPaper-rounded"
+          >
+            <div
+              class="MuiCardMedia-root SalonCard-media-143"
+              style="background-image: url(https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80);"
+            />
+            <div
+              class="MuiCardContent-root"
+            >
+              <h2
+                class="MuiTypography-root SalonCard-title-142 MuiTypography-h2 MuiTypography-gutterBottom"
+              >
+                Nic J Salon
+              </h2>
+              <h2
+                class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary"
+              >
+                3224 Stratford Court
+                 | 
+                Suite 6
+              </h2>
+              <h2
+                class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextSecondary"
+              >
+                Morrisville
+                , 
+                NC
+              </h2>
+            </div>
+            <a
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiFab-root SalonCard-cogButton-144"
+              href="/salon/abc1234"
+              role="button"
+              tabindex="0"
+            >
+              <span
+                class="MuiFab-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M0 0h20v20H0V0z"
+                    fill="none"
+                    transform="scale(1.2, 1.2)"
+                  />
+                  <path
+                    d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"
+                    transform="scale(1.2, 1.2)"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
+          style="opacity: 1; transform: scale(1, 1); transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 333ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root SalonCard-root-141 MuiPaper-rounded"
+          >
+            <div
+              class="MuiCardMedia-root SalonCard-media-143"
+              style="background-image: url(https://images.unsplash.com/photo-1470259078422-826894b933aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2706&q=80);"
+            />
+            <div
+              class="MuiCardContent-root"
+            >
+              <h2
+                class="MuiTypography-root SalonCard-title-142 MuiTypography-h2 MuiTypography-gutterBottom"
+              >
+                Nic's Hair Styling
+              </h2>
+              <h2
+                class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary"
+              >
+                123 Main Street
+                 | 
+                Apt 10
+              </h2>
+              <h2
+                class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextSecondary"
+              >
+                New York
+                , 
+                NY
+              </h2>
+            </div>
+            <a
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiFab-root SalonCard-cogButton-144"
+              href="/salon/xyz1234"
+              role="button"
+              tabindex="0"
+            >
+              <span
+                class="MuiFab-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M0 0h20v20H0V0z"
+                    fill="none"
+                    transform="scale(1.2, 1.2)"
+                  />
+                  <path
+                    d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"
+                    transform="scale(1.2, 1.2)"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </a>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
+          style="opacity: 1; transform: scale(1, 1); transition: opacity 1000ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 666ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root SalonCard-root-141 MuiPaper-rounded"
+          >
+            <div
+              class="MuiCardMedia-root SalonCard-media-143"
+              style="background-image: url(https://images.unsplash.com/photo-1562259920-47afc3030ba2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3900&q=80);"
+            />
+            <div
+              class="MuiCardContent-root"
+            >
+              <h2
+                class="MuiTypography-root SalonCard-title-142 MuiTypography-h2 MuiTypography-gutterBottom"
+              >
+                Nic's Hair Styling II
+              </h2>
+              <h2
+                class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary"
+              >
+                123 Main Street
+                 | 
+                Apt 10
+              </h2>
+              <h2
+                class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextSecondary"
+              >
+                New York
+                , 
+                NY
+              </h2>
+            </div>
+            <a
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiFab-root SalonCard-cogButton-144"
+              href="/salon/xyz12345"
+              role="button"
+              tabindex="0"
+            >
+              <span
+                class="MuiFab-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-colorPrimary"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M0 0h20v20H0V0z"
+                    fill="none"
+                    transform="scale(1.2, 1.2)"
+                  />
+                  <path
+                    d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"
+                    transform="scale(1.2, 1.2)"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
