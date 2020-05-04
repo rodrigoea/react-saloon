@@ -1,3 +1,7 @@
+# React Saloon
+
+**LIVE PREVIEW**: https://react-saloon.rodrigoea.com/
+
 This project was created as part of an application process for a company in the past (mid 2018).
 
 I've decided to share the code for references :)
